@@ -22,6 +22,13 @@ The project is deployed on **Vercel**:
 - [Vercel](https://vercel.com/) – Deployment
 
 ---
+## Features
+
+- List users and events from Supabase tables
+- Submit RSVP (Yes/No/Maybe) for an event
+- View all RSVPs in a live-updating table
+
+---
 
 ## ⚙️ Local Development Setup
 
